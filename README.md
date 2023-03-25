@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there I am Rohit👋
+## I am a data Science student.
 
 <!--
 **futurecoder28/futurecoder28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
